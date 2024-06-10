@@ -249,7 +249,3 @@ Crear una aplicación Qt que integre un sistema de login con una base de datos S
 ### Descripción:
 
 Desarrollar un sistema de login que valide a los usuarios contra una base de datos SQLite y muestre una ventana con información sobre los usuarios registrados. La ventana deberá permitir editar los datos de los usuarios como en una hoja de cálculo.
-
----
-
-Espero que esta información sea útil. Si necesitas más detalles sobre algún ejercicio en particular, no dudes en preguntar.
